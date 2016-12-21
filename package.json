@@ -1,0 +1,15 @@
+{
+  "name": "vue-sortable2",
+  "version": "0.0.2",
+  "description": "vue-sortable",
+  "main": "vue-sortable.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NangeGao/vue-sortable2.git"
+  },
+  "author": "NangeGao",
+  "license": "MIT",
+  "dependencies": {
+    "sortablejs": "^1.4.2"
+  }
+}
