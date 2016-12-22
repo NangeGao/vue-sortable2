@@ -15,12 +15,6 @@
   vSortable.install = function (Vue) {
       Vue.directive('sortable', {
           bind (el, binding, vnode) {
-
-              console.log(el);
-              console.log(binding);
-              console.log(vnode);
-              //return;
-
               var data = binding.value;
               var options = {
                   onUpdate (evt) {
