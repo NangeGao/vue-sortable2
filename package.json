@@ -1,0 +1,33 @@
+{
+  "name": "vue-sortable2",
+  "version": "0.0.2",
+  "description": "vue-sortable",
+  "main": "vue-sortable.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NangeGao/vue-sortable2.git"
+  },
+  "author": {
+    "name": "NangeGao"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "sortablejs": "^1.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/NangeGao/vue-sortable2/issues"
+  },
+  "homepage": "https://github.com/NangeGao/vue-sortable2#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "sortable"
+  ],
+  "gitHead": "def4d15c39c98771866ceed946806fa189f396f7",
+  "readme": "ERROR: No README data found!",
+  "_id": "vue-sortable2@0.0.2",
+  "_shasum": "9856f5c9f4d0d1be98923bab202453396e8a9261",
+  "_from": "vue-sortable2@0.0.2"
+}
